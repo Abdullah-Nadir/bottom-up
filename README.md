@@ -26,3 +26,6 @@ bottomup/ $ ./bottomup harvard_bottomup.bmp harvard_topdown.bmp
 
 When your program is working correctly, you should see a new file, harvard_topdown.bmp in your bottomup directory. Open it up and see if the orientation of the image is correct.
 
+- Make sure to add a (bottom-up) image in the bottom-up directory!! 
+
+
